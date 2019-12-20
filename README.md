@@ -1,25 +1,18 @@
-# Welcome and Introduction to DHRI@SMU 
+# Digital Humanities Research Institute (DHRI) at SMU 
 
-# Background on Digital Humanities Research Institute (DHRI)
+Digital Humanities Research Institute (DHRI) is a series of workshops that introduce you to the variety of skills that are involved in digital humanities projects. Workshops build on each other such that successive workshops use skills developed in earlier ones. 
+Topics covered included: introductions to digital humanities coding, projects planning, data. 
+*DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/DHRI.md)   
 
+## DHRI 2019
+* In August 2018, we held the inaugural DHRI@SMU. To read more about it, [click here](https://github.com/SouthernMethodistUniversity/sections/2018) 
 
-# DHRI philosophy 
-DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. Many bootcamp-style intensives prioritize instrumental outcomes, such as whether students can “write a for loop” or create a website. While these results are desirable, we find that students who know how to use the command line, read technical documentation, and reason about systems are more self-sufficient and better prepared to approach technology (and technical rhetoric) with a critical eye. This leads to second-and third-order effects as students teach themselves and teach others, and also provides a common conceptual vocabulary and skill set that serves as a basis for forming strong collaborations in the future. 
-To read more, [click here]() 
-
-# DHRI structure 
-
-* "Three structural elements are important for an effective DRI session: scoping, scaffolding, and purpose. Scoping is the art of choosing what—and especially what not—to include in a session. Scaffolding is the process of building later skill development on prior skill development. Purpose provides an answer to the participant who asks, "Why should I care about this?"
-* [more on DHRI structure](https://github.com/DHRI-Curriculum/guide/blob/master/sections/style-guide.md) 
-
-
-# DHRI 2018
-* In August 2018, we held the inaugural DHRI@SMU here.   To read more, [click here](https://github.com/SouthernMethodistUniversity/sections/2018) 
+# DHRI 2020
+* We will be holding another DHRI@SMU in August of 2020. [Application information is here.] (https://southernmethodistuniversity.github.io/home/apply.html). We are in the process of updating and refining the 2020 curriculum.
 
 
 
 -----
-
 
 
 Written by Rafia Mirza.
