@@ -5,10 +5,10 @@ Topics covered included: introductions to digital humanities coding, projects pl
 *DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/DHRI.md)   
 
 ## DHRI 2019
-* In August 2018, we held the inaugural DHRI@SMU. To read more about it, [click here](https://github.com/SouthernMethodistUniversity/sections/2018) 
+* In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here](https://github.com/SouthernMethodistUniversity/sections/2018) . The list of workshops is [here](https://dhrismu.github.io/home/curriculum.html)
 
 # DHRI 2020
-* We will be holding another DHRI@SMU in August of 2020. [Application information is here.] (https://southernmethodistuniversity.github.io/home/apply.html). We are in the process of updating and refining the 2020 curriculum.
+* We will be holding another DHRI@SMU in August of 2020. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html). We are in the process of updating and refining the 2020 curriculum.
 
 
 
