@@ -12,7 +12,19 @@ Topics covered included: introductions to digital humanities coding, projects pl
     * To see the list of workshops offered previously, [click here.](https://dhrismu.github.io/home/curriculum.html)
 
 -----
+[Next >>>](sections/2018.md)  
+----
 
+What you will find in this Repository
+
+-----
+
+[DHRI@CUNY 2018](sections/2018.md)  
+
+[DHRI@SMU 2019](sections/2019.md)
+
+
+----
 
 Written by Rafia Mirza.
 Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.](https://github.com/DHRI-Curriculum/guide) 
