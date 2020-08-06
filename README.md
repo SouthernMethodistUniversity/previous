@@ -8,7 +8,7 @@
 
 
 ## DHRI 2020
-* We will be holding another DHRI@SMU in August of 2020. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) We are in the process of updating and refining the 2020 curriculum. 
+* We will be holding another DHRI@SMU in August of 2020. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2020 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
     * In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2019.md)
     * To see the list of workshops offered previously, [click here.](https://dhrismu.github.io/home/curriculum.html)
 
