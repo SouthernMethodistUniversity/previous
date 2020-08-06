@@ -1,12 +1,13 @@
 # Digital Humanities Research Institute (DHRI) at SMU 
 
-* Digital Humanities Research Institute (DHRI) is a series of workshops that introduce you to the variety of skills that are involved in digital humanities projects. Workshops build on each other such that successive workshops use skills developed in earlier ones. 
-Topics covered included: introductions to digital humanities coding, projects planning, data. 
+* Digital Humanities Research Institute (DHRI) is a series of workshops that introduces you to the variety of skills that are involved in digital humanities projects. Workshops build on each other such that successive workshops use skills developed in earlier ones. 
 
-* *DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2018.md#dhri-philosophy)   
+* Topics covered in these workshops include: an introduction to digital humanities coding, projects planning, and data. 
+
+* *DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2018.md#dhri-philosophy)   
 
 
-# DHRI 2020
+## DHRI 2020
 * We will be holding another DHRI@SMU in August of 2020. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) We are in the process of updating and refining the 2020 curriculum. 
     * In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2019.md)
     * To see the list of workshops offered previously, [click here.](https://dhrismu.github.io/home/curriculum.html)
