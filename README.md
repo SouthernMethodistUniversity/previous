@@ -6,23 +6,32 @@
 
 * *DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2018.md#dhri-philosophy)   
 
+## A Foundational Approach to Digital Humanities Research
+*  We explain why understanding grounding principles in how computers work, in what it means to work from the command line, in learning the principles behind good practices for sharing documents, about how coding works, (what databases are), and how coding can be used to search, sort, count, and cluster in ways that can be helpful for humanistic research. 
+* There is a lot that personal computers allow us to take for granted when we do our work; however, knowing fundamentals can help humanities scholars become more confident users and critics of digital technologies. 
+* Such knowledge leads not only to becoming a better self-teacher, but to more reflective and informed technology choices. It allows us to save time in creating projects when we know what a well-formed dataset should or could look like, when we know what the difference is between using proprietary software rather than open source, and what kind of support might be needed as projects grow. 
 
-## DHRI 2020
-* We will be holding another DHRI@SMU in August of 2020. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2020 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
+
+## DHRI 2021
+* We will be holding another DHRI@SMU in August of 2021. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
     * In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2019.md)
-    * To see the list of workshops offered previously, [click here.](https://dhrismu.github.io/home/curriculum.html)
+
 
 -----
-[Next >>>](sections/2018.md)  
+[Next >>>](sections/DHRIphil.md)  
 ----
 
 What you will find in this Repository
 
 -----
 
+[DHRI Philosophy](sections/DHRIphil.md)  
+
 [DHRI@CUNY 2018](sections/2018.md)  
 
 [DHRI@SMU 2019](sections/2019.md)
+
+[DHRI@SMU 2020](sections/2020.md)
 
 
 ----
