@@ -13,7 +13,7 @@
 
 
 ## DHRI 2021
-* We will be holding another DHRI@SMU in August of 2021. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
+* We will held another DHRI@SMU in August of 2021. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html). We will hold another one in 2022.
     * In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2019.md)
 
 
