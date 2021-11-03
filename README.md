@@ -12,8 +12,8 @@
 * Such knowledge leads not only to becoming a better self-teacher, but to more reflective and informed technology choices. It allows us to save time in creating projects when we know what a well-formed dataset should or could look like, when we know what the difference is between using proprietary software rather than open source, and what kind of support might be needed as projects grow. 
 
 
-## DHRI 2021
-* We will held another DHRI@SMU in August of 2021. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html). We will hold another one in 2022.
+## DHRI 2022
+* This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html). We will hold another DHRI in 2022.
     * In August 2019, we held the inaugural DHRI@SMU. To read more about it, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2019.md)
 
 
