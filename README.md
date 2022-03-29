@@ -2,7 +2,7 @@
 
 * Digital Humanities Research Institute (DHRI) is a series of workshops that introduces you to the variety of skills that are involved in digital humanities projects. Workshops build on each other such that successive workshops use skills developed in earlier ones. 
 
-* Topics covered in these workshops include: an introduction to digital humanities coding, projects planning, and data. 
+* Topics covered in these workshops include: an introduction to digital humanities coding, projects planning, and data. This repository contains a history of DHRI@SMU. 
 
 * *DHRI philosophy:* DHRI emphasizes foundational skills because we believe that it is the most effective path toward enabling digital humanities researchers to become self-teachers and mentors in their own right. To read more, [click here.](https://github.com/SouthernMethodistUniversity/previous/blob/master/sections/2018.md#dhri-philosophy)   
 
@@ -13,7 +13,9 @@
 
 
 ## DHRI 2022
-* We will be holding another DHRI@SMU in August of 2022. [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) This is the [2021 curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
+* We will be holding another DHRI@SMU in August of 2022. 
+-[Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) 
+-This is [last years' curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
    
 
 -----
