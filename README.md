@@ -14,8 +14,8 @@
 
 ## DHRI 2022
 * We will be holding another DHRI@SMU in August of 2022. 
--[Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) 
--This is [last years' curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
+* [Application information is here.](https://southernmethodistuniversity.github.io/home/apply.html) 
+* This is [last years' curriculum.](https://southernmethodistuniversity.github.io/home/curriculum.html)
    
 
 -----
