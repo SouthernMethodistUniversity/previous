@@ -14,8 +14,11 @@
 
 ## DHRI 2022
 
-* This was the planned curriculum.](https://southernmethodistuniversity.github.io/dhri/index.html)
-   
+* [This was the planned curriculum.](https://github.com/SouthernMethodistUniversity/dhri/releases/tag/ver22)
+
+ ## DHRI 2024
+
+* [Planned for May 2024, applications will open soon](https://southernmethodistuniversity.github.io/home/)  
 
 -----
 [Next >>>](sections/DHRIphil.md)  
